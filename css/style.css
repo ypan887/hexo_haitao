@@ -1997,3 +1997,33 @@ i.icon:before {
     text-align: center;
   }
 }
+.tinysou-widget .autocomplete ul li p.title {
+  color: #f00;
+}
+.tinysou-widget .autocomplete ul li.active {
+  background: none;
+  background-color: #f00;
+  border-top: 1px solid #8b0000;
+  border-bottom: 1px solid #8b0000;
+  -webkit-box-shadow: 0 1px 0 #8b0000 inset;
+}
+.tinysou-widget .autocomplete ul li.active .sections em {
+  color: #fff;
+}
+.ts-snippet em {
+  font-weight: bold;
+  font-style: normal;
+  font-size: 150%;
+  text-transform: uppercase;
+}
+.ts-result {
+  font-family: 'Comic Sans MS';
+}
+.ts-result h3 a {
+  font-family: 'Comic Sans MS';
+  font-size: 20px;
+}
+.ts-result .ts-snippet {
+  color: Crimson;
+  font-size: 18px;
+}

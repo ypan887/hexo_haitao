@@ -78,11 +78,26 @@
             </ul>
             <nav id="sub-nav">
               <div id="search-form-wrap">
-                <form action="//www.baidu.com/s" method="get" accept-charset="UTF-8" class="search-form">
-                  <input type="search" name="wd" results="0" class="search-form-input" placeholder="搜索">
-                  <input type="hidden" name="si" value="paul887.gitcafe.io">
-                  <input type="hidden" name="ct" value="14232020613844471231">
-                </form>
+                <form class="search-form"><input type="text" id="ts-search-input" class="search-form-input" placeholder="查找商品"></form>
+                  <script>
+var option = {
+  engineKey: 'cf3e536d6127553f8265',
+  resultContainingElement: '#ts-results-container',
+  renderStyle: 'new_page',
+  resultPageURL: '/search/index.html'
+};
+(function(w,d,t,u,n,s,e){
+  s = d.createElement(t);
+  s.src = u;
+  s.async = 1;
+  w[n] = function(r){
+    w[n].opts = r;
+  };
+  e = d.getElementsByTagName(t)[0];
+  e.parentNode.insertBefore(s, e);
+})(window,document,'script','//tinysou-cdn.b0.upaiyun.com/ts.js','_ts');
+_ts(option);
+</script>
               </div>
             </nav>
           </div>
@@ -309,9 +324,6 @@
     <div class="container-inner">
       <a id="back-to-top" href="javascript:;"><i class="icon fa fa-angle-up"></i></a>
       <div class="credit">
-        <h1 class="logo-wrap">
-          <a href="/" class="logo"></a>
-        </h1>
         <p>&copy; 2015 小葡萄</p>
       </div>
     </div>
