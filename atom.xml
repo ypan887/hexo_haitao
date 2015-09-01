@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[小葡萄]]></title>
+  <title><![CDATA[Putao Buy]]></title>
   <subtitle><![CDATA[美国代购]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
+  <link href="http://putao.tk/"/>
   <updated>2015-08-20T18:13:02.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://putao.tk/</id>
   
   <author>
     <name><![CDATA[小葡萄]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[$379.00包邮 史低价！GoPro HERO4 黑色版 超便携专业运动摄影机]]></title>
-    <link href="http://yoursite.com/2015/08/20/gopro/"/>
-    <id>http://yoursite.com/2015/08/20/gopro/</id>
+    <link href="http://putao.tk/2015/08/20/gopro/"/>
+    <id>http://putao.tk/2015/08/20/gopro/</id>
     <published>2015-08-20T18:11:17.000Z</published>
     <updated>2015-08-20T18:13:02.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://i.ebayimg.com/00/s/NTAwWDUwMA==/z/Y-0AAOSwPcVV1QSx/$_12.JPG" alt=""></p>
@@ -29,20 +29,20 @@
 <p>$379.00包邮 史低价！GoPro HERO4 黑色版 超便携专业运动摄影机<br>]]>
     </summary>
     
-      <category term="GoPro" scheme="http://yoursite.com/tags/GoPro/"/>
+      <category term="GoPro" scheme="http://putao.tk/tags/GoPro/"/>
     
-      <category term="摄像机" scheme="http://yoursite.com/tags/%E6%91%84%E5%83%8F%E6%9C%BA/"/>
+      <category term="摄像机" scheme="http://putao.tk/tags/%E6%91%84%E5%83%8F%E6%9C%BA/"/>
     
-      <category term="电子" scheme="http://yoursite.com/tags/%E7%94%B5%E5%AD%90/"/>
+      <category term="电子" scheme="http://putao.tk/tags/%E7%94%B5%E5%AD%90/"/>
     
-      <category term="电子" scheme="http://yoursite.com/categories/electronic/"/>
+      <category term="电子" scheme="http://putao.tk/categories/electronic/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[低至2折＋包邮 6PM 精选新百伦New Balance 男、女士和儿童鞋履、服饰热卖]]></title>
-    <link href="http://yoursite.com/2015/08/20/6pm/"/>
-    <id>http://yoursite.com/2015/08/20/6pm/</id>
+    <link href="http://putao.tk/2015/08/20/6pm/"/>
+    <id>http://putao.tk/2015/08/20/6pm/</id>
     <published>2015-08-20T18:07:13.000Z</published>
     <updated>2015-08-20T18:11:03.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://a3.zassets.com/images/z/2/8/5/4/6/3/2854632-p-MULTIVIEW.jpg" alt=""></p>
@@ -54,18 +54,18 @@
 <p>低至2折＋包邮 6PM 精选新百伦New Balance 男、女士和儿童鞋履、服饰热卖<]]>
     </summary>
     
-      <category term="6pm" scheme="http://yoursite.com/tags/6pm/"/>
+      <category term="6pm" scheme="http://putao.tk/tags/6pm/"/>
     
-      <category term="折扣" scheme="http://yoursite.com/tags/%E6%8A%98%E6%89%A3/"/>
+      <category term="折扣" scheme="http://putao.tk/tags/%E6%8A%98%E6%89%A3/"/>
     
-      <category term="限时折扣" scheme="http://yoursite.com/categories/discount/"/>
+      <category term="限时折扣" scheme="http://putao.tk/categories/discount/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[6折 Abercrombie & Fitch全场促销 本站额外85折]]></title>
-    <link href="http://yoursite.com/2015/08/20/AF/"/>
-    <id>http://yoursite.com/2015/08/20/AF/</id>
+    <link href="http://putao.tk/2015/08/20/AF/"/>
+    <id>http://putao.tk/2015/08/20/AF/</id>
     <published>2015-08-20T18:00:03.000Z</published>
     <updated>2015-08-20T18:15:03.000Z</updated>
     <content type="html"><![CDATA[<p><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTndZSlNh-vCW4MOkWLyOmxwf_vsNNPQSKn-UtG9o9nbFwn_k6eIg" alt=""></p>
@@ -77,20 +77,20 @@
 <p>6折 A]]>
     </summary>
     
-      <category term="Abercrombie &amp; Fitch" scheme="http://yoursite.com/tags/Abercrombie-Fitch/"/>
+      <category term="Abercrombie &amp; Fitch" scheme="http://putao.tk/tags/Abercrombie-Fitch/"/>
     
-      <category term="折上折" scheme="http://yoursite.com/tags/%E6%8A%98%E4%B8%8A%E6%8A%98/"/>
+      <category term="折上折" scheme="http://putao.tk/tags/%E6%8A%98%E4%B8%8A%E6%8A%98/"/>
     
-      <category term="折扣" scheme="http://yoursite.com/tags/%E6%8A%98%E6%89%A3/"/>
+      <category term="折扣" scheme="http://putao.tk/tags/%E6%8A%98%E6%89%A3/"/>
     
-      <category term="限时折扣" scheme="http://yoursite.com/categories/discount/"/>
+      <category term="限时折扣" scheme="http://putao.tk/categories/discount/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[philips]]></title>
-    <link href="http://yoursite.com/2015/08/20/philips/"/>
-    <id>http://yoursite.com/2015/08/20/philips/</id>
+    <link href="http://putao.tk/2015/08/20/philips/"/>
+    <id>http://putao.tk/2015/08/20/philips/</id>
     <published>2015-08-20T17:54:58.000Z</published>
     <updated>2015-08-20T17:59:04.000Z</updated>
     <content type="html"><![CDATA[<p><img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTvvkXmopW6vI42BX-7spSRjf8d6b1FZLgFI8lLHGBobIu8vXc&amp;usqp=CAY" alt=""></p>
@@ -101,20 +101,20 @@
     <![CDATA[<p><img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTvvkXmopW6vI42BX-7spSRjf8d6b1FZLgFI8lLHGBobIu8vXc&amp;usqp=CAY" alt="">]]>
     </summary>
     
-      <category term="电动刮胡刀" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%A8%E5%88%AE%E8%83%A1%E5%88%80/"/>
+      <category term="电动刮胡刀" scheme="http://putao.tk/tags/%E7%94%B5%E5%8A%A8%E5%88%AE%E8%83%A1%E5%88%80/"/>
     
-      <category term="电子" scheme="http://yoursite.com/tags/%E7%94%B5%E5%AD%90/"/>
+      <category term="电子" scheme="http://putao.tk/tags/%E7%94%B5%E5%AD%90/"/>
     
-      <category term="菲利普" scheme="http://yoursite.com/tags/%E8%8F%B2%E5%88%A9%E6%99%AE/"/>
+      <category term="菲利普" scheme="http://putao.tk/tags/%E8%8F%B2%E5%88%A9%E6%99%AE/"/>
     
-      <category term="电子" scheme="http://yoursite.com/categories/electronic/"/>
+      <category term="电子" scheme="http://putao.tk/categories/electronic/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[额外7折＋满$50立减$25+$25 GapCash GAP 官网全场特价商品折上折热卖]]></title>
-    <link href="http://yoursite.com/2015/08/20/gap/"/>
-    <id>http://yoursite.com/2015/08/20/gap/</id>
+    <link href="http://putao.tk/2015/08/20/gap/"/>
+    <id>http://putao.tk/2015/08/20/gap/</id>
     <published>2015-08-20T17:47:38.000Z</published>
     <updated>2015-08-20T18:08:51.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://www.gap.com/Asset_Archive/GPWeb/content/0010/116/229/assets/081815_all_HP_US2.jpg" alt=""></p>
@@ -126,20 +126,20 @@
 <p>额外7折＋满$50立减$25+$25 Gap]]>
     </summary>
     
-      <category term="GAP" scheme="http://yoursite.com/tags/GAP/"/>
+      <category term="GAP" scheme="http://putao.tk/tags/GAP/"/>
     
-      <category term="折上折" scheme="http://yoursite.com/tags/%E6%8A%98%E4%B8%8A%E6%8A%98/"/>
+      <category term="折上折" scheme="http://putao.tk/tags/%E6%8A%98%E4%B8%8A%E6%8A%98/"/>
     
-      <category term="折扣" scheme="http://yoursite.com/tags/%E6%8A%98%E6%89%A3/"/>
+      <category term="折扣" scheme="http://putao.tk/tags/%E6%8A%98%E6%89%A3/"/>
     
-      <category term="限时折扣" scheme="http://yoursite.com/categories/discount/"/>
+      <category term="限时折扣" scheme="http://putao.tk/categories/discount/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Intel 英特尔 750系列 2.5寸 NVMe固态硬盘 1.2TB SSDPE2MW012T4R5$899.99（约￥5820）]]></title>
-    <link href="http://yoursite.com/2015/08/19/Intel/"/>
-    <id>http://yoursite.com/2015/08/19/Intel/</id>
+    <link href="http://putao.tk/2015/08/19/Intel/"/>
+    <id>http://putao.tk/2015/08/19/Intel/</id>
     <published>2015-08-20T06:48:57.000Z</published>
     <updated>2015-08-20T06:51:23.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://images17.newegg.com/is/image/newegg/20-167-294-TS?$S300$" alt=""></p>
@@ -153,20 +153,20 @@
 <p>最强消费级固态硬盘，PCIe 3.0 x 4通道，读取2.4G/s~Intel（英特尔）口碑不]]>
     </summary>
     
-      <category term="Intel" scheme="http://yoursite.com/tags/Intel/"/>
+      <category term="Intel" scheme="http://putao.tk/tags/Intel/"/>
     
-      <category term="固态硬盘" scheme="http://yoursite.com/tags/%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98/"/>
+      <category term="固态硬盘" scheme="http://putao.tk/tags/%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98/"/>
     
-      <category term="英特尔" scheme="http://yoursite.com/tags/%E8%8B%B1%E7%89%B9%E5%B0%94/"/>
+      <category term="英特尔" scheme="http://putao.tk/tags/%E8%8B%B1%E7%89%B9%E5%B0%94/"/>
     
-      <category term="电脑" scheme="http://yoursite.com/categories/computer/"/>
+      <category term="电脑" scheme="http://putao.tk/categories/computer/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Herschel Supply Co. Retreat 复古双肩背包]]></title>
-    <link href="http://yoursite.com/2015/08/19/HERSCHEL/"/>
-    <id>http://yoursite.com/2015/08/19/HERSCHEL/</id>
+    <link href="http://putao.tk/2015/08/19/HERSCHEL/"/>
+    <id>http://putao.tk/2015/08/19/HERSCHEL/</id>
     <published>2015-08-20T06:45:59.000Z</published>
     <updated>2015-08-20T06:48:34.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://ecx.images-amazon.com/images/I/91QlJtev05L._UY879_.jpg" alt=""></p>
@@ -179,16 +179,16 @@
 <p>百搭海军蓝直邮再到好价，虽价格略高几美元，但运费也相应降了~Herschel 是加拿大知名户包袋品]]>
     </summary>
     
-      <category term="双肩背包" scheme="http://yoursite.com/tags/%E5%8F%8C%E8%82%A9%E8%83%8C%E5%8C%85/"/>
+      <category term="双肩背包" scheme="http://putao.tk/tags/%E5%8F%8C%E8%82%A9%E8%83%8C%E5%8C%85/"/>
     
-      <category term="背包" scheme="http://yoursite.com/categories/backpack/"/>
+      <category term="背包" scheme="http://putao.tk/categories/backpack/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[RADO 雷达 Integral 精密陶瓷系列 R20853152 男士机械腕表$828]]></title>
-    <link href="http://yoursite.com/2015/08/19/RADO/"/>
-    <id>http://yoursite.com/2015/08/19/RADO/</id>
+    <link href="http://putao.tk/2015/08/19/RADO/"/>
+    <id>http://putao.tk/2015/08/19/RADO/</id>
     <published>2015-08-20T06:40:52.000Z</published>
     <updated>2015-08-20T06:44:59.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://img1.r10.io/PIC/5911555/0/1/450/5911555.jpg" alt=""></p>
@@ -200,22 +200,22 @@
 <p>RADO经典陶瓷机械腕表，更换新优惠码，重回历史低价。Rado雷达Integral精密陶瓷系列男士腕表R20853152]]>
     </summary>
     
-      <category term="RADO" scheme="http://yoursite.com/tags/RADO/"/>
+      <category term="RADO" scheme="http://putao.tk/tags/RADO/"/>
     
-      <category term="机械表" scheme="http://yoursite.com/tags/%E6%9C%BA%E6%A2%B0%E8%A1%A8/"/>
+      <category term="机械表" scheme="http://putao.tk/tags/%E6%9C%BA%E6%A2%B0%E8%A1%A8/"/>
     
-      <category term="男表" scheme="http://yoursite.com/tags/%E7%94%B7%E8%A1%A8/"/>
+      <category term="男表" scheme="http://putao.tk/tags/%E7%94%B7%E8%A1%A8/"/>
     
-      <category term="雷达" scheme="http://yoursite.com/tags/%E9%9B%B7%E8%BE%BE/"/>
+      <category term="雷达" scheme="http://putao.tk/tags/%E9%9B%B7%E8%BE%BE/"/>
     
-      <category term="机械表" scheme="http://yoursite.com/categories/mechanic-watch/"/>
+      <category term="机械表" scheme="http://putao.tk/categories/mechanic-watch/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Marmot 土拨鼠 Quasar 男款排骨羽绒服（900蓬）$120.99]]></title>
-    <link href="http://yoursite.com/2015/08/19/Marmot/"/>
-    <id>http://yoursite.com/2015/08/19/Marmot/</id>
+    <link href="http://putao.tk/2015/08/19/Marmot/"/>
+    <id>http://putao.tk/2015/08/19/Marmot/</id>
     <published>2015-08-20T06:38:16.000Z</published>
     <updated>2015-08-20T06:43:57.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://www.backcountry.com/images/items/900/MAR/MAR2544/TEARD.jpg" alt=""></p>
@@ -227,20 +227,20 @@
 <p>900蓬，比鬼语者更高一阶的中间层羽绒服，码数齐全，亮骚红色反季囤货好价~这款Marmot]]>
     </summary>
     
-      <category term="Marmot" scheme="http://yoursite.com/tags/Marmot/"/>
+      <category term="Marmot" scheme="http://putao.tk/tags/Marmot/"/>
     
-      <category term="土拨鼠" scheme="http://yoursite.com/tags/%E5%9C%9F%E6%8B%A8%E9%BC%A0/"/>
+      <category term="土拨鼠" scheme="http://putao.tk/tags/%E5%9C%9F%E6%8B%A8%E9%BC%A0/"/>
     
-      <category term="羽绒服" scheme="http://yoursite.com/tags/%E7%BE%BD%E7%BB%92%E6%9C%8D/"/>
+      <category term="羽绒服" scheme="http://putao.tk/tags/%E7%BE%BD%E7%BB%92%E6%9C%8D/"/>
     
-      <category term="羽绒服" scheme="http://yoursite.com/categories/leather-cloth/"/>
+      <category term="羽绒服" scheme="http://putao.tk/categories/leather-cloth/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[COACH 蔻驰 Alegra 女款休闲鞋]]></title>
-    <link href="http://yoursite.com/2015/08/19/coach/"/>
-    <id>http://yoursite.com/2015/08/19/coach/</id>
+    <link href="http://putao.tk/2015/08/19/coach/"/>
+    <id>http://putao.tk/2015/08/19/coach/</id>
     <published>2015-08-20T04:40:45.000Z</published>
     <updated>2015-08-20T06:35:17.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://a3.zassets.com/images/z/2/9/2/8/2/3/2928231-p-MULTIVIEW.jpg" alt=""></p>
@@ -252,20 +252,20 @@
 <p>大码福利，可女鞋男穿~COACH蔻驰是拥有历久弥新之口碑的美国著名品牌，作为美式时尚的杰]]>
     </summary>
     
-      <category term="COACH" scheme="http://yoursite.com/tags/COACH/"/>
+      <category term="COACH" scheme="http://putao.tk/tags/COACH/"/>
     
-      <category term="休闲鞋" scheme="http://yoursite.com/tags/%E4%BC%91%E9%97%B2%E9%9E%8B/"/>
+      <category term="休闲鞋" scheme="http://putao.tk/tags/%E4%BC%91%E9%97%B2%E9%9E%8B/"/>
     
-      <category term="女鞋" scheme="http://yoursite.com/tags/%E5%A5%B3%E9%9E%8B/"/>
+      <category term="女鞋" scheme="http://putao.tk/tags/%E5%A5%B3%E9%9E%8B/"/>
     
-      <category term="鞋" scheme="http://yoursite.com/categories/shoe/"/>
+      <category term="鞋" scheme="http://putao.tk/categories/shoe/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[三网通！$799.99包邮免税 苹果iPhone 6 Plus 64GB (官网Sim Free版) 解锁版智能手机 A1524]]></title>
-    <link href="http://yoursite.com/2015/08/19/post/"/>
-    <id>http://yoursite.com/2015/08/19/post/</id>
+    <link href="http://putao.tk/2015/08/19/post/"/>
+    <id>http://putao.tk/2015/08/19/post/</id>
     <published>2015-08-20T04:25:20.000Z</published>
     <updated>2015-08-20T04:37:15.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://i.ebayimg.com/00/s/NTIxWDYwMA==/z/2hEAAOSw3ydV0f7N/$_12.JPG" alt=""></p>
@@ -277,22 +277,22 @@
 <p>三网通！$799.99包邮免税 苹果iPhone 6 Plus 64GB (官网Sim ]]>
     </summary>
     
-      <category term="iphone" scheme="http://yoursite.com/tags/iphone/"/>
+      <category term="iphone" scheme="http://putao.tk/tags/iphone/"/>
     
-      <category term="免税" scheme="http://yoursite.com/tags/%E5%85%8D%E7%A8%8E/"/>
+      <category term="免税" scheme="http://putao.tk/tags/%E5%85%8D%E7%A8%8E/"/>
     
-      <category term="电子" scheme="http://yoursite.com/tags/%E7%94%B5%E5%AD%90/"/>
+      <category term="电子" scheme="http://putao.tk/tags/%E7%94%B5%E5%AD%90/"/>
     
-      <category term="电话" scheme="http://yoursite.com/tags/%E7%94%B5%E8%AF%9D/"/>
+      <category term="电话" scheme="http://putao.tk/tags/%E7%94%B5%E8%AF%9D/"/>
     
-      <category term="电子" scheme="http://yoursite.com/categories/electronic/"/>
+      <category term="电子" scheme="http://putao.tk/categories/electronic/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Mizuno 美津浓 WAVE PROPHECY 3 预言3 旗舰级 男款缓震跑步鞋]]></title>
-    <link href="http://yoursite.com/2015/08/19/mizuno/"/>
-    <id>http://yoursite.com/2015/08/19/mizuno/</id>
+    <link href="http://putao.tk/2015/08/19/mizuno/"/>
+    <id>http://putao.tk/2015/08/19/mizuno/</id>
     <published>2015-08-20T03:56:35.000Z</published>
     <updated>2015-08-20T22:09:53.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://g-ec2.images-amazon.com/images/G/01/AMAZON_FASHION/2013/SHOES/APLUS/mizuno/p1men._V368007362_.jpg" alt=""><br>旗舰避震跑鞋，Dark Grey色近期好价。美津浓是机械缓震跑鞋领域的王道存在，Wave Prophecy 3是美津浓于2014年推出的旗舰级避震慢跑鞋，外形更加梦幻，身家多金，囊括了美津浓所有顶尖科技。</p>
@@ -303,17 +303,17 @@
     <![CDATA[<p><img src="http://g-ec2.images-amazon.com/images/G/01/AMAZON_FASHION/2013/SHOES/APLUS/mizuno/p1men._V368007362_.jpg" alt=""><br>旗舰避震跑鞋，Dar]]>
     </summary>
     
-      <category term="Mizuno" scheme="http://yoursite.com/tags/Mizuno/"/>
+      <category term="Mizuno" scheme="http://putao.tk/tags/Mizuno/"/>
     
-      <category term="美津浓" scheme="http://yoursite.com/tags/%E7%BE%8E%E6%B4%A5%E6%B5%93/"/>
+      <category term="美津浓" scheme="http://putao.tk/tags/%E7%BE%8E%E6%B4%A5%E6%B5%93/"/>
     
-      <category term="跑鞋" scheme="http://yoursite.com/tags/%E8%B7%91%E9%9E%8B/"/>
+      <category term="跑鞋" scheme="http://putao.tk/tags/%E8%B7%91%E9%9E%8B/"/>
     
-      <category term="运动" scheme="http://yoursite.com/tags/%E8%BF%90%E5%8A%A8/"/>
+      <category term="运动" scheme="http://putao.tk/tags/%E8%BF%90%E5%8A%A8/"/>
     
-      <category term="鞋" scheme="http://yoursite.com/categories/shoe/"/>
+      <category term="鞋" scheme="http://putao.tk/categories/shoe/"/>
     
-      <category term="跑鞋" scheme="http://yoursite.com/categories/shoe/running-shoe/"/>
+      <category term="跑鞋" scheme="http://putao.tk/categories/shoe/running-shoe/"/>
     
   </entry>
   
