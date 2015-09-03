@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://putao.tk/jijia/index.html</loc>
+    <lastmod>2015-09-03T01:03:56.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://putao.tk/QA/index.html</loc>
+    <lastmod>2015-09-03T00:57:47.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://putao.tk/daigou/index.html</loc>
+    <lastmod>2015-09-03T00:57:13.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://putao.tk/about/index.html</loc>
-    <lastmod>2015-09-02T08:37:01.000Z</lastmod>
+    <lastmod>2015-09-02T23:54:34.000Z</lastmod>
   </url>
   
   <url>
@@ -17,18 +32,8 @@
   </url>
   
   <url>
-    <loc>http://putao.tk/daigou/index.html</loc>
-    <lastmod>2015-08-31T08:22:24.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://putao.tk/search/index.html</loc>
     <lastmod>2015-08-24T04:27:56.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://putao.tk/jijia/index.html</loc>
-    <lastmod>2015-08-21T20:46:41.000Z</lastmod>
   </url>
   
   <url>
