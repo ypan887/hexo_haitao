@@ -30,3 +30,4 @@
     $('body,html').animate({scrollTop:0}, 600);
   }); 
 })(jQuery);
+
